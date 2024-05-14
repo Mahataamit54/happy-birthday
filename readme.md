@@ -65,8 +65,8 @@ var config = {
 喜欢的话关注一下[霸都丶傲天](https://github.com/ajlovechina)呗~  \
 定期更新一下爱情网页模板,简历模板,知识笔记,PDF书籍,原创深度技术分享等 :heart:
 
-* 知乎:[霸都丶傲天](https://www.zhihu.com/people/AJLoveChina)
-* Github:[霸都丶傲天](https://github.com/ajlovechina)
+* 知乎:[霸都丶傲天](httpshttps://github.com/Mahataamit54://www.zhihu.com/people/AJLoveChina)
+* Github:[霸都丶傲天]
 
 ## QA
 > 如何修改音乐？
